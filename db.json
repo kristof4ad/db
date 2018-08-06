@@ -1,0 +1,29 @@
+ {
+ "array": [
+  {
+    "id": 1,
+    "title": "Android Studio Tutorial For Beginners",
+    "description": "Learn how to install Android Studio and then go through this tutorial to build your very first app",
+    
+    "thumbnail": "https://s3-us-west-2.amazonaws.com/devslopesvideo/androidwhite-learn.png"
+  },
+  {
+    "id": 2,
+    "title": "How to Support High Resolution on iOS - @1x @2x @3x",
+    "description": "Learn how to support multiple screen resolutions and devices such as iPhone 4, iPhone 5, iPhone 6, iPhone 6 Plus",
+    "thumbnail": "https://s3-us-west-2.amazonaws.com/devslopesvideo/ios-image-sizes.png"
+  },
+  {
+    "id": 3,
+    "title": "How to build an Apple TV App Tutorial for tvOS",
+    "description": "In this app we download popular movies from an IMDB service and implement scrolling and navigation on the Apple TV",
+    "thumbnail": "https://s3-us-west-2.amazonaws.com/devslopesvideo/tv-test.png"
+  },
+  {
+    "id": 4,
+    "title": "Photoshop Tutorial For Beginners How To Create a Log",
+    "description": "Learn how to make a professional logo in Photoshop without any design experience. This is a Photoshop tutorial for beginners that will give you all the basics of Photoshop that you need to make a logo.",
+    "thumbnail": "https://s3-us-west-2.amazonaws.com/devslopesvideo/logo.png"
+  }
+]
+}
